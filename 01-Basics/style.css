@@ -1,0 +1,29 @@
+#Email:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  #Email:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  #Email:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  #Email:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  #github {
+    color: blueviolet;
+    background-color: transparent;
+    text-decoration: underline;
+  }
