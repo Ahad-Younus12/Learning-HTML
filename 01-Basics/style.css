@@ -27,3 +27,14 @@
     background-color: transparent;
     text-decoration: underline;
   }
+
+
+
+
+  td {
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+  }
