@@ -1,4 +1,4 @@
-#Email:link {
+  #Email:link {
     color: green;
     background-color: transparent;
     text-decoration: none;
@@ -38,3 +38,27 @@
     border-collapse: collapse;
     text-align: center;
   }
+
+/* INLINE-BLOCK */
+
+/* div{
+  width: 30%;
+  display: inline-block;
+} */
+
+/* FLEX */
+
+/* .mycontainer {
+   display: flex;
+ }
+
+  .mycontainer >div {
+    width: 33%;
+  } */
+
+/* GRID */
+
+/* .grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+} */
